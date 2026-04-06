@@ -238,4 +238,4 @@ We may update this Privacy Policy from time to time. When we make changes, we wi
 If you have questions or concerns about this Privacy Policy or our data practices, please contact us at:
 
 **Byte Bus**
-Email: [support@bytebus.com](mailto:support@bytebus.com)
+Email: [bytebus@googlegroups.com](bytebus@googlegroups.com)
